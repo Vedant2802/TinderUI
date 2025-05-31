@@ -14,4 +14,5 @@ If you are developing a production application, we recommend using TypeScript wi
 - Created a vite+react project
 - Remove unncessary code and create a Hello World App
 - Install tailwind css
--
+- Install Daisy UI
+- Install Navbar component to your App.jsx
