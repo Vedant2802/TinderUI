@@ -15,4 +15,12 @@ If you are developing a production application, we recommend using TypeScript wi
 - Remove unncessary code and create a Hello World App
 - Install tailwind css
 - Install Daisy UI
-- Install Navbar component to your App.jsx
+- Create Navbar.jsx component to your App.jsx
+- Install react-router-dom package
+
+- BODY
+  Navbar
+  Route = / => Feed
+  Route = /login => Login page
+  Route = /connections => connections page
+  Route = /Profiles => profiles page
