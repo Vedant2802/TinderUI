@@ -17,6 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 - Install Daisy UI
 - Create Navbar.jsx component to your App.jsx
 - Install react-router-dom package
+- Create a Login page
 
 - BODY
   Navbar
